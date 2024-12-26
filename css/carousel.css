@@ -1,6 +1,6 @@
 .carousel {
     position: relative;
-    width: 70%;
+    /* width: 70%; */
     overflow: hidden;
     border-radius: 10px;
     margin: 20px auto;

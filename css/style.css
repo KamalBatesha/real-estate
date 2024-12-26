@@ -42,7 +42,17 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     bottom: 45px;
     z-index: 99;
 }
-
+.project-section .header-carousel .owl-nav{
+    right: -25px !important;
+    left: auto !important;
+}
+.projects-content p,.projects-content li{
+    font-size: 20px;
+    line-height: 2;
+}
+.projects-content h6{
+    font-size: 25px;
+}
 
 /*** Spinner ***/
 #spinner {
