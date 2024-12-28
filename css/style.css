@@ -21,8 +21,8 @@
 .breadcrumb a{
     color: black;
 }
-a{
-    /* color: var(--primary) !important; */
+.bg-gray{
+    background-color: #999;
 }
 body{
     font-family: "Cairo", serif;
